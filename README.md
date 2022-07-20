@@ -1,5 +1,5 @@
-# SeleniumWebAutomation
-Selenium Web Otomasyon 
+## Selenium Web Automation
+
 - https://www.kitapyurdu.com/ sitesi açılır. 
 - Ana sayfanın açıldığı kontrol edilir. 
 - Ürün arama alanına “roman” yazılır ve klavyeden “enter” tuşuna basılır. (Ürün aranına yazılacak roman kelimesi csv uzantılı dosyadan okunması gerekmektedir.) 
